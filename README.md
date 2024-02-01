@@ -1,9 +1,9 @@
-#PathPatrol_Maverick
+# PathPatrol_Maverick
 
 Well, this is bsically a obstacle avoiding and lane tracking vehicle.
 This was made as a mini project for college in a group of two, that is myself and my good friend Utsav Singh.
 
-##Complications
+## Complications
 
 Now even this project of ours do avoid obstacles while also following a specific path, it was not really build upto to its max potential.
 And here are the problems we faced that led to this incompetency in this simple project:
@@ -20,6 +20,9 @@ And here are the problems we faced that led to this incompetency in this simple 
   Now the idea might sound simple, but it was an appropriate one in that situation. So what we did is rigged the code so when the vehicle detects an obstacle instead of struggling to maneuver out of its way
 
   it would simply stop, now that does sound quite a downgrade and also limits a lot potential applications but for that time and place that was good enough for us.
+
+  https://github.com/Aviral2002/PathPatrol_Maverick/assets/130285981/f1622cef-7bb6-4e0c-adb5-ea35f24bbd2d
+
 
                
 
