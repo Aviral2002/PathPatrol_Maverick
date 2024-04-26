@@ -1,7 +1,7 @@
 # PathPatrol_Maverick
 
 Well, this is bsically a obstacle avoiding and lane tracking vehicle.
-This was made as a mini project for college in a group of two, that is myself and my good friend Utsav Singh.
+This was made as a mini project in a group of two, that is myself and my good friend Utsav Singh.
 
 ## Complications
 
